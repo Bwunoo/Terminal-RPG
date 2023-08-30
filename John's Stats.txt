@@ -1,1 +1,11 @@
+HP: 950
+Defence: 50%
+Mana: none
 
+Base ATK: 50
+Rage ATK: 75
+Final ATK: 125
+
+Base Magical ATK: none
+Rage Magical ATK: none
+Final Magical ATK: none
