@@ -1,11 +1,1 @@
-HP: 950
-Defence: 50%
-Mana: none
-
-Base ATK: 50
-Rage ATK: 75
-Final ATK: 125
-
-Base Magical ATK: none
-Rage Magical ATK: none
-Final Magical ATK: none
+HP: 950\nDefence: 50%\nMana: none\nBase ATK: 50\nRage ATK: 75\nFinal ATK: 125\nBase Magical ATK: none\nRage Magical ATK: none\nFinal Magical ATK: none
