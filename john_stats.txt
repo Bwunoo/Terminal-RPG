@@ -1,1 +1,0 @@
-HP: 950\nDefence: 50%\nMana: none\nBase ATK: 50\nRage ATK: 75\nFinal ATK: 125\nBase Magical ATK: none\nRage Magical ATK: none\nFinal Magical ATK: none
